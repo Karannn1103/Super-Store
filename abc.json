@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Kensington",
+        "address": "123 Kensington High Street",
+        "tel_no": "02075456789",
+        "employees": [
+            {
+                "no": 102,
+                "name": "Alan Stuarts",
+                "employement_started": "2020-12-23",
+                "mobile": "07897868233",
+                "full_time": true
+            },
+            {
+                "no": 108,
+                "name": "Robert Smith",
+                "employement_started": "2023-11-19",
+                "mobile": "07777668556",
+                "full_time": true
+            },
+            {
+                "no" : 207,
+                "name": "Jack Henrey",
+                "employement_started": "2015-10-02",
+                "mobile": "07887663256",
+                "full_time": true
+            }
+        ]
+    },
+    {
+        "name": "Maida Vale",
+        "address": "101 The Vale",
+        "tel_no": "02078783421",
+        "employees": [
+            {
+                "no": 206,
+                "name": "Jane Allen",
+                "employement_started": "2021-07-20",
+                "mobile": "07897800009",
+                "full_time": false
+            },
+            {
+                "no": 208,
+                "name": "Sean Edwards",
+                "employement_started": "2023-10-10",
+                "mobile": "07077114455",
+                "full_time": true
+            },
+            {
+                "no": 217,
+                "name": "Ed Barry",
+                "employement_started": "2015-10-02",
+                "mobile": "07887663250",
+                "full_time": true
+            }
+        ]
+    },
+    {
+        "name": "Putney",
+        "address": "23 Putney High Street",
+        "tel_no": "02085436789",
+        "employees": [
+            {
+                "no": 223,
+                "name": "Pat Franks",
+                "employement_started": "2024-01-28",
+                "mobile": "07696800771",
+                "full_time": true
+            },
+            {
+                "no": 236,
+                "name": "Serena Muler",
+                "employement_started": "2023-10-19",
+                "mobile": "07027874412",
+                "full_time": true
+            },
+            {
+                "no": 264,
+                "name": "Phil McDonald",
+                "employement_started": "2019-07-02",
+                "mobile": "07237663193",
+                "full_time": true
+            }
+        ]
+    },
+    {
+        "name": "Barnet",
+        "address": "223 Grosvenor Square",
+        "tel_no": "02073438890",
+        "employees": [
+            {
+                "no": 270,
+                "name": "James Dale",
+                "employement_started": "2021-04-12",
+                "mobile": "07626882664",
+                "full_time": false
+            },
+            {
+                "no": 273,
+                "name": "Tina Johnson",
+                "employement_started": "2023-10-19",
+                "mobile": "07027874412",
+                "full_time": true
+            },
+            {
+                "no": 279,
+                "name": "Edward Longworth",
+                "employement_started": "2016-02-04",
+                "mobile": "07227663778",
+                "full_time": true
+            }
+        ]
+    }
+]
